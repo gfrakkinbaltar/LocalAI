@@ -196,7 +196,7 @@ require (
 	github.com/go-openapi/swag v0.23.0 // indirect
 	github.com/gofiber/contrib/fiberzerolog v1.0.3
 	github.com/gofiber/template v1.8.3 // indirect
-	github.com/gofiber/utils v1.1.0 // indirect
+	github.com/gofiber/utils v1.2.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/snappy v0.0.4 // indirect
