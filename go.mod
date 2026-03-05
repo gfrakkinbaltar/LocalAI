@@ -181,7 +181,7 @@ require (
 	github.com/davidlazar/go-crypto v0.0.0-20200604182044-b73af7476f6c // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.0 // indirect
 	github.com/dlclark/regexp2 v1.11.0 // indirect
-	github.com/docker/cli v27.0.3+incompatible // indirect
+	github.com/docker/cli v29.2.0+incompatible // indirect
 	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker v28.5.2+incompatible
 	github.com/docker/docker-credential-helpers v0.7.0 // indirect
