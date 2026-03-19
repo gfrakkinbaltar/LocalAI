@@ -1,8 +1,6 @@
 module github.com/mudler/LocalAI
 
-go 1.24.4
-
-toolchain go1.24.5
+go 1.25.0
 
 require (
 	dario.cat/mergo v1.0.2
@@ -33,7 +31,7 @@ require (
 	github.com/lithammer/fuzzysearch v1.1.8
 	github.com/mholt/archiver/v3 v3.5.1
 	github.com/microcosm-cc/bluemonday v1.0.27
-	github.com/modelcontextprotocol/go-sdk v1.4.0
+	github.com/modelcontextprotocol/go-sdk v1.4.1
 	github.com/mudler/cogito v0.5.1
 	github.com/mudler/edgevpn v0.31.1
 	github.com/mudler/go-processmanager v0.0.0-20240820160718-8b802d3ecf82
@@ -136,7 +134,7 @@ require (
 	github.com/rymdport/portal v0.4.2 // indirect
 	github.com/savsgio/gotils v0.0.0-20240303185622-093b76447511 // indirect
 	github.com/segmentio/asm v1.1.3 // indirect
-	github.com/segmentio/encoding v0.5.3 // indirect
+	github.com/segmentio/encoding v0.5.4 // indirect
 	github.com/shirou/gopsutil/v4 v4.25.6 // indirect
 	github.com/srwiley/oksvg v0.0.0-20221011165216-be6e8873101c // indirect
 	github.com/srwiley/rasterx v0.0.0-20220730225603-2ab79fcdd4ef // indirect
