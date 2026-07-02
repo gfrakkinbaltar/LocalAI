@@ -3,5 +3,5 @@ opencv-python
 accelerate
 peft
 inference
-torch==2.12.0
+torch==2.12.1
 optimum-quanto
